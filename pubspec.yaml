@@ -26,55 +26,22 @@ dependencies:
     sdk: flutter
   animator: ^1.0.0+5
   auto_route: ^0.6.9
-  auto_size_text: ^2.1.0
-  barcode: ^1.17.1
-  cached_network_image: ^2.5.0
-  carousel_slider: ^2.3.1
-  clippy_flutter: ^1.1.1
   connectivity: ^2.0.2
-  cupertino_icons: ^1.0.0
-  dart_notification_center: ^1.0.0+1
   dartz: ^0.9.1
-  device_info: ^1.0.0
   dio: ^3.0.10
   enum_to_string: ^1.0.14
   equatable: ^2.0.0
-  fancy_bottom_navigation: ^0.3.2
-  fdottedline: ^1.0.1
-  flappy_search_bar: ^1.7.2
-  flare_flutter: ^2.0.6
-  flare_splash_screen: ^3.0.1
   flutter_bloc: ^6.1.0
-  flutter_email_sender: ^4.0.0
-  flutter_html: ^1.1.1
   flutter_icons: ^1.1.0
-  flutter_slidable: ^0.5.7
-  flutter_staggered_grid_view: ^0.3.3
-  flutter_svg: ^0.19.3
-  font_awesome_flutter: ^8.10.0
   freezed_annotation: ^0.12.0
   get_it: ^4.0.4
-  google_fonts: ^1.1.1
-  home_indicator: ^1.1.5
-  image_cropper: ^1.3.1
-  image_picker: ^0.6.7+14
-  image_pixels: ^1.0.2
-  infinite_scroll_pagination: ^2.2.2
   injectable: ^1.0.4
-  intl: ^0.16.1
   jiffy: ^3.0.1
   json_annotation: ^3.0.1
   jwt_decode: ^0.1.0
-  package_info: ^0.4.0+6
   path_provider: ^1.6.24
-  photo_view: ^0.10.3
   pull_to_refresh: 1.6.4
   shared_preferences: ^0.5.8
-  simple_animations: ^1.3.4
-  smooth_page_indicator: ^0.2.0
-  store_redirect: ^1.0.2
-  tab_indicator_styler: ^1.0.0
-  url_launcher: ^5.4.11
 
 flutter_icons:
   includes:
